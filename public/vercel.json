@@ -7,6 +7,23 @@
     }
   ]
 }
+{
+  "routes": [
+    {
+      "src": "/google2e016204bb6a314b.html",
+      "dest": "/public/google2e016204bb6a314b.html",
+      "status": 200
+    }
+  ]
+}
+{
+  "routes": [
+    {
+      "src": "/google2e016204bb6a314b.html",
+      "dest": "/google2e016204bb6a314b.html"
+    }
+  ]
+}
 
   
 
