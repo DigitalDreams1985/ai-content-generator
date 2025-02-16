@@ -25,7 +25,7 @@ function App() {
 }
 
 export default App;
-public/index.html
+const filePath = process.env.PUBLIC_URL + "/index.html";
 <html>
 <head>
     <title>Google Verification</title>
