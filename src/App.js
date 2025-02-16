@@ -25,3 +25,13 @@ function App() {
 }
 
 export default App;
+public/index.html
+<html>
+<head>
+    <title>Google Verification</title>
+</head>
+<body>
+    google2e016204bb6a314b.html
+</body>
+</html>
+
